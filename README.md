@@ -6,6 +6,8 @@ Criar uma API Web para gerenciar o cadastro de alunos.
 
 
 Requisitos
+
+
 • Cadastrar Aluno
 • Listar Alunos
 • Alterar dados de um Aluno
@@ -15,6 +17,9 @@ Requisitos
 
 
 Observações:
+
+
+
 • Cada aluno possui um identificador (id), um nome, a primeira nota, a segunda nota, a
 média e a situação.
 • Utilize o módulo express do node.js para criar a API.
