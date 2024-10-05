@@ -2,12 +2,18 @@
 
 
 Criar uma API Web para gerenciar o cadastro de alunos.
+
+
+
 Requisitos
 • Cadastrar Aluno
 • Listar Alunos
 • Alterar dados de um Aluno
 • Deletar um Aluno
 • Retornar o nome e média de um determinado aluno pelo id
+
+
+
 Observações:
 • Cada aluno possui um identificador (id), um nome, a primeira nota, a segunda nota, a
 média e a situação.
